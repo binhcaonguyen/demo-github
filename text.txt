@@ -1,4 +1,8 @@
 code dao dep trai vl
 binh viet
+<<<<<<< HEAD
 hehehehhe conflict
 Cao Nguyen Binh
+=======
+hehehehhe
+>>>>>>> 3f4a6f5246b443ec8aaf450d01a6249955ea64e1
